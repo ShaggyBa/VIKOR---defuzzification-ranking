@@ -412,6 +412,6 @@ The contributors give no warranty for the using of the software.
 
 
 ## Лицензия / License
-Эта программа открыта для использования и распространяется под лицензией MIT.
+Эта программа открыта для использования и распространяется под лицензией GNU General Public License v3.0.
 
-This program is open to use anywhere and is licensed under the MIT license.
+This program is open to use anywhere and is licensed under the GNU General Public License v3.0.
